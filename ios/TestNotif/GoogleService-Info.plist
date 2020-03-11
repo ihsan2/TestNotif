@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>605556922709-omk0n9g7jashupqrm36mvsc5skt35rh0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.605556922709-omk0n9g7jashupqrm36mvsc5skt35rh0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDXi4SaLURANrJHvanimQ-ms_4FJe7XCzc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>605556922709</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.allstars.testnotif</string>
+	<key>PROJECT_ID</key>
+	<string>testnotif-e3aff</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testnotif-e3aff.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:605556922709:ios:fee4a48af3638edb9a37dc</string>
+	<key>DATABASE_URL</key>
+	<string>https://testnotif-e3aff.firebaseio.com</string>
+</dict>
+</plist>
