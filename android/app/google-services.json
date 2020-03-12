@@ -1,41 +1,77 @@
 {
   "project_info": {
-    "project_number": "605556922709",
-    "firebase_url": "https://testnotif-e3aff.firebaseio.com",
-    "project_id": "testnotif-e3aff",
-    "storage_bucket": "testnotif-e3aff.appspot.com"
+    "project_number": "443298498136",
+    "firebase_url": "https://testnotif-f53c4.firebaseio.com",
+    "project_id": "testnotif-f53c4",
+    "storage_bucket": "testnotif-f53c4.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:605556922709:android:403d4502c7c97be49a37dc",
+        "mobilesdk_app_id": "1:443298498136:android:9e87a83d9e024e2b302c2d",
         "android_client_info": {
-          "package_name": "com.testnotif"
+          "package_name": "com.allstars.testnotif"
         }
       },
       "oauth_client": [
         {
-          "client_id": "605556922709-glqup3ughnufkd2lj5aj3cs8jjdjjts0.apps.googleusercontent.com",
+          "client_id": "443298498136-r9d77pb4u31nhime1ceialdmimdsncko.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBSMgvLTxmGWg31NQOyarHpWKS4ws7Td7s"
+          "current_key": "AIzaSyC_nIrS2FiNQcLIt0JeYeEbQrdPdGUe6xI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "605556922709-glqup3ughnufkd2lj5aj3cs8jjdjjts0.apps.googleusercontent.com",
+              "client_id": "443298498136-r9d77pb4u31nhime1ceialdmimdsncko.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "605556922709-k58drvhapvfn6b90qsrf584vlpn7tbkc.apps.googleusercontent.com",
+              "client_id": "443298498136-tvhs85l8c0b6smvu11e9h4tjeo4blagd.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "org.reactjs.native.example.TestNotif"
+                "bundle_id": "com.allstars.testnotif"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443298498136:android:a1cc968b9c7e4227302c2d",
+        "android_client_info": {
+          "package_name": "com.testnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443298498136-r9d77pb4u31nhime1ceialdmimdsncko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_nIrS2FiNQcLIt0JeYeEbQrdPdGUe6xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443298498136-r9d77pb4u31nhime1ceialdmimdsncko.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "443298498136-tvhs85l8c0b6smvu11e9h4tjeo4blagd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.allstars.testnotif"
               }
             }
           ]
